@@ -1,6 +1,11 @@
 # Historical logs
 
-## Version 0.1.2
+## Version 0.1.4
+
+- Release date: Dec 25, 2022
+- Set-gitActions-mc-cipher-env-var-v0.1.4
+
+## Version 0.1.3
 
 - Release date: Dec 25, 2022
 - Added-mc-cipher-env-var-v0.1.3
