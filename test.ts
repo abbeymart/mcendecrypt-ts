@@ -26,7 +26,7 @@ import { decryptEncodedFile, encryptFile, } from "./config.ts";
     await mcTest({
         name    : "should decrypt JSON file successfully",
         testFunc: () => {
-            const encodedFilePath = "./config.aes";
+            const encodedFilePath = "./config.test.aes";
             const result = decryptEncodedFile(encodedFilePath);
             assertEquals(result.appDb.dbType, appDb.dbType, `dbType should be ${appDb.dbType}`);
             assertEquals(result.appDb.hostname, appDb.hostname, `hostname should be ${appDb.hostname}`);

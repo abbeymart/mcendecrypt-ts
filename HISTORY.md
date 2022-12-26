@@ -1,5 +1,10 @@
 # Historical logs
 
+## Version 0.1.5
+
+- Release date: Dec 25, 2022
+- Resolved-encrypted-test-file-path-v0.1.5
+
 ## Version 0.1.4
 
 - Release date: Dec 25, 2022
