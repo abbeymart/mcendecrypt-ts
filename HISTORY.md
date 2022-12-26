@@ -1,5 +1,10 @@
 # Historical logs
 
+## Version 0.1.2
+
+- Release date: Dec 25, 2022
+- Refactor-deno-fmt-ts-files-path-v0.1.2
+
 ## Version 0.1.1
 
 - Release date: Dec 25, 2022

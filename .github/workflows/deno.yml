@@ -23,7 +23,7 @@ jobs:
         run: deno --version
 
       - name: Format code using Deno format
-        run: deno fmt **/*.ts
+        run: deno fmt *.ts
 
       - name: Check format
         run: deno fmt --check *.ts
