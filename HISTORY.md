@@ -3,6 +3,11 @@
 ## Version 0.1.2
 
 - Release date: Dec 25, 2022
+- Added-mc-cipher-env-var-v0.1.3
+
+## Version 0.1.2
+
+- Release date: Dec 25, 2022
 - Refactor-deno-fmt-ts-files-path-v0.1.2
 
 ## Version 0.1.1

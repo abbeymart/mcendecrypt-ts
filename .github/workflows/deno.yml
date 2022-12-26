@@ -31,5 +31,7 @@ jobs:
       - name: Build Deno Module
         run: deno run --reload mod.ts
 
+      - name: set temporary environment variable for testing
+        run: export MC_CIPHER=9977
       - name: Run tests
         run: deno run --allow-read --allow-write --allow-env test.ts
