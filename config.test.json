@@ -1,0 +1,14 @@
+{
+  "appDb": {
+    "dbType": "postgres",
+    "hostname": "localhost",
+    "username": "postgres",
+    "password": "abcdefgh",
+    "database": "mctest",
+    "port": 5432,
+    "filename": "testdb.db",
+    "poolSize": 100,
+    "url": "localhost:5432",
+    "location": "postgres://localhost:5432/mctest"
+  }
+}

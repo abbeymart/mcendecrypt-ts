@@ -1,0 +1,11 @@
+*.log
+.cache
+.DS_Store
+*bak
+.history
+.temp/**
+config.json
+config.aes
+emailConfig.ts
+config.test.ts
+testConfig.json
