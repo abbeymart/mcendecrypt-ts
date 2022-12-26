@@ -8,7 +8,7 @@
 
 ```ts
 // encrypt-file import
-import { encryptFile } from "https://deno.land/x/mcendecrypt@v0.1.0/mod.ts";
+import { encryptFile } from "https://deno.land/x/mcendecrypt@v0.1.6/mod.ts";
 
 // See the test-file for different test cases / scenarios and usage
 ```

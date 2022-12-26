@@ -1,5 +1,10 @@
 # Historical logs
 
+## Version 0.1.6
+
+- Release date: Dec 25, 2022
+- First-published-deno-release-v0.1.6
+
 ## Version 0.1.5
 
 - Release date: Dec 25, 2022
