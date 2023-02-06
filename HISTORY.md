@@ -1,5 +1,10 @@
 # Historical logs
 
+## Version 0.2.0
+
+- Release date: Feb 06, 2023
+- Added RSA encode-decode-functions-v0.2.0
+
 ## Version 0.1.6
 
 - Release date: Dec 25, 2022

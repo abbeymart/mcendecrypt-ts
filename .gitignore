@@ -5,6 +5,7 @@
 .history
 .temp/**
 config.json
+keys.json
 config.aes
 emailConfig.ts
 config.test.ts

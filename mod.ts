@@ -9,7 +9,7 @@
  * Test case composition - see the test folder
  *
  * ```ts
- * import { encryptFile } from "https://deno.land/x/mcendecrypt@v0.1.6/mod.ts";
+ * import { rsaEncode, rsaDecode } from "https://deno.land/x/mcendecrypt@v0.2.0/mod.ts";
  *
  * ```
  *

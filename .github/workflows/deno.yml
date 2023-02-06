@@ -33,5 +33,5 @@ jobs:
       - name: Build Deno Module
         run: deno run --reload mod.ts
 
-      - name: Run tests
-        run: deno run --allow-read --allow-write --allow-env test.ts
+      - name: Run tests [RSA]
+        run: deno run --allow-read --allow-write --allow-env rsaParam.test.ts

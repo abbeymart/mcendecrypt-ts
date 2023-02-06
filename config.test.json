@@ -9,6 +9,8 @@
     "filename": "testdb.db",
     "poolSize": 100,
     "url": "localhost:5432",
-    "location": "postgres://localhost:5432/mctest"
+    "location": "postgres://localhost:5432/mctest",
+    "checkStatus": true,
+    "isSecure": false
   }
 }
